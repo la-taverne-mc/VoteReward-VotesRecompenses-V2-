@@ -1,0 +1,18 @@
+oak_log:
+  money: 1.0
+  exp: 1
+spruce_log:
+  money: 2.5
+  exp: 1
+birch_log:
+  money: 1.2
+  exp: 1
+jungle_log:
+  money: 1.70
+  exp: 1
+acacia_log:
+  money: 1.50
+  exp: 1
+dark_oak_log:
+  money: 2.5
+  exp: 1
